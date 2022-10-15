@@ -10,6 +10,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FooterComponent } from './components/footer/footer.component';
 import { NavComponent } from './components/nav/nav.component';
 import { CardComponent } from './components/card/card.component';
+import { BodyComponent } from './components/body/body.component';
+import { SkillsComponent } from './components/skills/skills.component';
 
 
 @NgModule({
@@ -17,7 +19,9 @@ import { CardComponent } from './components/card/card.component';
     AppComponent,
     FooterComponent,
     NavComponent,
-    CardComponent
+    CardComponent,
+    BodyComponent,
+    SkillsComponent
   ],
   imports: [
     BrowserModule,

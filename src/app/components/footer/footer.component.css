@@ -7,6 +7,10 @@
 }
 
 .footer > span{
-    font-weight: 800;
+    font-weight: 400;
     font-size: 1.1rem;
+}
+.footer > strong{
+  font-weight: 800;
+  font-size: 1.1rem;
 }
