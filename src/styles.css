@@ -1,14 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
 
-/* import Bootstrap */
-@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-
-/* import ngxBootsrap datePicker */
-@import '../node_modules/ngx-bootstrap/datepicker/bs-datepicker.css';
-
-/* import fontawesome */
-@import '../node_modules/@fortawesome/fontawesome-free/css/all.min.css';
-
 html, body { 
     height: 100%; 
 }

@@ -12,7 +12,6 @@ import { NavComponent } from './components/nav/nav.component';
 import { CardComponent } from './components/card/card.component';
 import { BodyComponent } from './components/body/body.component';
 import { SkillsComponent } from './components/skills/skills.component';
-import { AngularComponent } from './components/skills/angular/angular.component';
 
 
 @NgModule({
@@ -22,8 +21,7 @@ import { AngularComponent } from './components/skills/angular/angular.component'
     NavComponent,
     CardComponent,
     BodyComponent,
-    SkillsComponent,
-    AngularComponent
+    SkillsComponent
   ],
   imports: [
     BrowserModule,
