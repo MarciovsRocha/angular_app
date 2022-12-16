@@ -20,6 +20,7 @@ export class SkillsComponent implements OnInit {
     , 'microsoft-sql-server-icon.svg'
     , 'python-icon.svg'
     , 'sybase-icon.svg'
+    , 'sklearn-icon.svg'
   ];
 
   constructor() { }
